@@ -1,17 +1,16 @@
-# Jupyter checkpoints
+
 .ipynb_checkpoints/
 
-# Datos que no queremos subir
+
 data/*.csv
 
-# Archivos temporales
+
 *.pyc
 __pycache__/
 
-# Entornos virtuales
+
 venv/
 .env/
 
-# Archivos del sistema
 .DS_Store
 Thumbs.db
