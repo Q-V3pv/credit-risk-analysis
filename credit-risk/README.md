@@ -5,12 +5,10 @@ Proyecto que se centraliza en la elaboración de un modelo actuarial basado en r
 ## Estructura del proyecto
 
 - `data/`: Archivos de datos CSV.
-- `notebooks/`: Notebooks de Jupyter con análisis y exploración.
-- `src/`: Código auxiliar en Python.
+- `notebooks/`: Notebooks de Jupyter.
+- `src/`: Código auxiliar.
 - `bitacora/`: Documentos y reportes del proyecto.
 
-## Instalación
 
 
-```bash
-pip install -r requirements.txt
+
